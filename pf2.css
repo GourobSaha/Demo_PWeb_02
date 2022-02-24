@@ -70,6 +70,16 @@ section{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: 1920px 1000px;
-    font-size: 250%;
+    font-size: 200%;
     text-align: center;
+}
+.client{
+    text-align: center;
+    width: 40%;
+    padding-left: 30%;
+}
+.messege{
+    padding: 5%;
+    background-color: aqua;
+    border-radius: 50px;
 }
