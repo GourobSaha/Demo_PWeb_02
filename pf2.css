@@ -1,0 +1,75 @@
+body{
+    margin: 0%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+section{
+    margin: 0%;
+    height: 800px;
+}
+.bg1{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1000px;
+}
+.header{
+    margin-top: 8%;
+    
+    text-align: justify;
+    margin-left: 5%;
+}
+.btn1{
+    font-size: medium;
+    text-decoration: none;
+    background-color: orangered;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background-color: orange;
+    
+}
+.half-width{
+    font-size: 150%;
+    width: 40%;
+    float: left;
+    padding-top: 50%;
+    padding: 2%;
+    flex: left;
+    
+}.half-width img{
+    padding-left: 10%;
+    height: 95%;
+    width: 95%;
+}
+.bg2{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1000px;
+}
+.bg3{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1000px;
+    font-size: 250%;
+}
+.l-work{
+    margin-top: 5%;
+    text-align: center;
+}
+.l-work img{
+   width: 25%;
+   float: left;
+   margin-left: 6%;
+   margin-top: 5%;
+}
+.l-work img:hover{
+    opacity: 0.8;
+}
+.bg4{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1000px;
+    font-size: 250%;
+    text-align: center;
+}
