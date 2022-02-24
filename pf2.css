@@ -80,6 +80,10 @@ section{
 }
 .messege{
     padding: 5%;
-    background-color: aqua;
     border-radius: 50px;
+    background-image: linear-gradient(to right, red , yellow);
+}
+#footer{
+    font-size: 50%;
+    margin-top: 10%;
 }
