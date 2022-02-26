@@ -57,19 +57,26 @@ section{
     background-size: 1920px 1000px;
     font-size: 250%;
 }
-.l-work{
+.work{
     margin-top: 5%;
     text-align: center;
 }
+.pics{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.l-work {
+   width: 200%;
+   display: flex;
+   justify-content: center;
+}
 .l-work img{
-   width: 25%;
-   float: left;
-   margin-left: 6%;
-   margin-top: 5%;
+    width: 85%;
 }
 .l-work img:hover{
     opacity: 0.8;
-    width: 30%;
+    width: 90%;
     transition: 1s;
 }
 .bg4{
