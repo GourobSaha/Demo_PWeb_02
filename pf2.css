@@ -39,8 +39,12 @@ section{
     
 }.half-width img{
     padding-left: 10%;
-    height: 95%;
+    height: 90%;
+    width: 90%;
+}
+.half-width img:hover{
     width: 95%;
+    transition: 1s;
 }
 .bg2{
     background-image: url("images/biography-bg.png");
@@ -65,6 +69,8 @@ section{
 }
 .l-work img:hover{
     opacity: 0.8;
+    width: 30%;
+    transition: 1s;
 }
 .bg4{
     background-image: url("images/footer-bg.png");
